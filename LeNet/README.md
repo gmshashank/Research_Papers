@@ -17,13 +17,10 @@ Original LeNet-5 model has:
 
 ## Activation Function
 
-Tanh is used as activation function except at the output.
-Sigmoid is used as activation function at the output.
-Here ReLU is used.
-
+Here, ReLU is used instead of Tanh/Sigmoid function.
 ## Pooling Layer
 
-Here used Max Pooling instead of Average Pooling.
+Here, Max Pooling is used instead of Average Pooling.
 
 
 
